@@ -1,7 +1,5 @@
 package org.example.Creational.Factory;
 
-import org.example.Creational.PaymentFactory;
-
 public class ClientCode {
     public static void main(String[] args){
         Payment p = PaymentFactory.getInstance("UPI");

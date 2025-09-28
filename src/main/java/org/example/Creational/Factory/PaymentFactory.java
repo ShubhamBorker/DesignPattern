@@ -1,9 +1,4 @@
-package org.example.Creational;
-
-import org.example.Creational.Factory.CreditCardPayment;
-import org.example.Creational.Factory.PayPal;
-import org.example.Creational.Factory.Payment;
-import org.example.Creational.Factory.UpiPayment;
+package org.example.Creational.Factory;
 
 public class PaymentFactory {
     public static Payment getInstance(String input){
