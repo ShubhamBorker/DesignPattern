@@ -1,7 +1,4 @@
-package org.example;
-
-import org.example.Creational.Singleton.SingletonDesignPattern;
-import org.example.Creational.Singleton.SingletonEarlyInztn;
+package org.example.Creational.Singleton;
 
 public class Main {
      public static void main(String[] args) {
